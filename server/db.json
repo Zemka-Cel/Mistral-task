@@ -1,0 +1,1204 @@
+{
+	"data": [
+{"id":1,"title":"Bad Guy (Nabbeun namja)","rating":1.6,"description":"Lyme disease","release_date":"4/12/1981","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":2,"title":"Léolo","rating":4.7,"description":"Displ seg fx shaft of ulna, unsp arm, 7thR","release_date":"1/19/2020","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"movie"},
+{"id":3,"title":"Wild Bees, The (Divoké vcely)","rating":4.7,"description":"Smallpox","release_date":"3/28/2018","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":4,"title":"Day Without a Mexican, A","rating":3.9,"description":"Toxic eff of venom of African and Asian snake, slf-hrm, init","release_date":"12/12/2017","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":5,"title":"Unstoppable","rating":3.0,"description":"Barrett's esophagus with dysplasia","release_date":"3/19/1961","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":6,"title":"Black Rainbow","rating":1.7,"description":"Toxic effect of venom of ants, undetermined, subs encntr","release_date":"8/30/1991","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":7,"title":"10","rating":1.4,"description":"Driver injured in collision w unsp mv in nontraffic accident","release_date":"11/12/1959","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":8,"title":"Civil Action, A","rating":3.2,"description":"Nondisp fx of lateral cuneiform of left foot, init","release_date":"7/9/1953","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":9,"title":"Accepted","rating":2.6,"description":"Unsp fracture of left pubis, subs for fx w routn heal","release_date":"7/11/1954","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":10,"title":"Haunting, The","rating":2.9,"description":"Hypospadias, penile","release_date":"8/16/2008","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":11,"title":"Honey Moon (Honigmond)","rating":4.7,"description":"Oth mental disorders complicating pregnancy, unsp trimester","release_date":"7/7/1980","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":12,"title":"Last Dance","rating":2.8,"description":"Assault by handgun discharge, subsequent encounter","release_date":"9/8/2015","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":13,"title":"Straight from the Heart","rating":4.5,"description":"Person on outside of dune buggy injured nontraf","release_date":"7/24/2019","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":14,"title":"Cavalcade","rating":1.5,"description":"Felty's syndrome","release_date":"4/25/2012","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":15,"title":"Dirty Bomb","rating":4.4,"description":"Nondisp fx of olecran pro w intartic extension of right ulna","release_date":"7/17/1990","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"TV show"},
+{"id":16,"title":"Hangar 18","rating":4.0,"description":"Sltr-haris Type I physl fx upr end humer, r arm, 7thK","release_date":"9/4/2018","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":17,"title":"Men of Respect","rating":3.6,"description":"Sltr-haris Type IV physl fx low end rad, unsp arm, 7thD","release_date":"2/26/1958","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"TV show"},
+{"id":18,"title":"Broadway Melody, The","rating":3.5,"description":"Nondisp fx of 4th metatarsal bone, unsp ft, 7thG","release_date":"9/3/2011","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":19,"title":"Cry of the City","rating":4.4,"description":"Other physeal fracture of upper end of unsp tibia, sequela","release_date":"4/6/1957","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":20,"title":"My Date with Drew","rating":4.9,"description":"Burn of second degree of unspecified upper arm, subs encntr","release_date":"1/28/1967","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":21,"title":"Marilena de la P7","rating":2.9,"description":"Oth fracture of unsp femur, subs for clos fx w routn heal","release_date":"9/10/1979","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"movie"},
+{"id":22,"title":"Blood Creek (a.k.a. Town Creek)","rating":2.1,"description":"Felty's syndrome, left hand","release_date":"12/27/1995","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":23,"title":"Crimson Petal and the White, The","rating":4.3,"description":"Vitiligo of left eye, unspecified eyelid and periocular area","release_date":"10/4/2017","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":24,"title":"Dispatch from Reuter's, A","rating":1.1,"description":"Burn of first degree of right wrist","release_date":"11/8/2009","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":25,"title":"Afterwards","rating":2.4,"description":"Nondisp fx of coracoid pro, unsp shldr, 7thG","release_date":"8/15/1982","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"movie"},
+{"id":26,"title":"Chopper","rating":1.4,"description":"Poisoning by oth anti-common-cold drugs, assault, init","release_date":"12/18/2000","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":27,"title":"Underworld","rating":2.1,"description":"Unsp malignant neoplasm skin/ left eyelid, including canthus","release_date":"11/11/2014","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":28,"title":"Yi Yi","rating":2.3,"description":"Corrosion of unsp deg mult sites of unsp wrs/hnd, subs","release_date":"8/18/1995","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":29,"title":"Gold","rating":4.1,"description":"Oth injury of blood vessel of unsp finger, init encntr","release_date":"2/1/2009","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":30,"title":"Everly","rating":4.7,"description":"Toxic effect of unsp halgn deriv of aromat hydrocrb, slf-hrm","release_date":"7/16/2003","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":31,"title":"Sasha (Sascha)","rating":1.1,"description":"Nondisp commnt fx shaft of unsp tibia, 7thH","release_date":"7/5/1960","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":32,"title":"Kongo","rating":4.2,"description":"Stress fracture, unspecified femur, sequela","release_date":"6/25/1951","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":33,"title":"Art of Negative Thinking, The (Kunsten å tenke negativt)","rating":3.4,"description":"Stress fracture, right ankle, subs for fx w delay heal","release_date":"2/10/2010","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":34,"title":"No Turning Back","rating":1.4,"description":"Displ transverse fx shaft of l ulna, 7thH","release_date":"4/1/1981","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":35,"title":"Detroit","rating":4.0,"description":"Displ transverse fx shaft of r femr, 7thN","release_date":"9/28/1966","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"movie"},
+{"id":36,"title":"Confucian Confusion, A (Du li shi dai)","rating":4.9,"description":"Acute post-traumatic headache, intractable","release_date":"2/15/1955","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":37,"title":"Dog Run","rating":2.7,"description":"Open bite of abd wall, right upper q w penet perit cav, sqla","release_date":"10/4/1984","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"movie"},
+{"id":38,"title":"Brats, The (Les gamins)","rating":2.3,"description":"External constriction of vagina and vulva, initial encounter","release_date":"12/9/1968","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":39,"title":"Dragon Ball: The Path to Power (Doragon bôru: Saikyô e no michi)","rating":1.2,"description":"Dislocation of unsp internal joint prosthesis, subs encntr","release_date":"4/25/1978","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":40,"title":"Holiday Inn","rating":2.0,"description":"Unspecified injury of tail of pancreas, subsequent encounter","release_date":"1/14/1978","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":41,"title":"Yeh Jawaani Hai Deewani","rating":2.3,"description":"Passenger in 3-whl mv injured in collision w oth mv nontraf","release_date":"7/8/1951","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"movie"},
+{"id":42,"title":"Ginger and Fred (Ginger e Fred)","rating":3.7,"description":"Sepsis of newborn due to Staphylococcus aureus","release_date":"8/20/2010","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"TV show"},
+{"id":43,"title":"Dead Souls","rating":1.1,"description":"Unsp inj unsp blood vess at wrs/hnd lv of unsp arm, init","release_date":"7/5/1981","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"movie"},
+{"id":44,"title":"Best Man, The","rating":2.9,"description":"Other female genital mutilation status","release_date":"11/27/2019","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":45,"title":"Blast from the Past","rating":2.2,"description":"Poisoning by antiviral drugs, intentional self-harm, subs","release_date":"8/19/1954","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":46,"title":"The Hearts of Age","rating":2.8,"description":"Family history of endo, nutritional and metabolic diseases","release_date":"12/7/1976","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"movie"},
+{"id":47,"title":"Bambou","rating":4.7,"description":"Oth disrd of bone density and structure, left hand","release_date":"1/7/2001","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":48,"title":"Restless Souls (Bag det stille ydre)","rating":4.6,"description":"Sltr-haris Type II physl fx low end ulna, unsp arm, 7thG","release_date":"2/16/1963","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":49,"title":"Four Seasons, The","rating":1.3,"description":"Corrosion of unsp deg mult sites of unsp wrs/hnd, init","release_date":"4/10/2004","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"movie"},
+{"id":50,"title":"Masque of the Red Death, The","rating":4.5,"description":"Strain of flexor musc/fasc/tend left thumb at forearm level","release_date":"2/9/1973","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":51,"title":"6 Days to Air: The Making of South Park","rating":1.0,"description":"Military operations involving rubber bullets, civilian","release_date":"10/10/1984","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":52,"title":"Saddest Music in the World, The","rating":2.7,"description":"Contusion of left eyelid and periocular area","release_date":"10/16/2012","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":53,"title":"Scoop","rating":3.5,"description":"Burn of second degree of left lower leg, subs encntr","release_date":"5/13/1982","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":54,"title":"Brothers McMullen, The","rating":3.2,"description":"Other disorders of cartilage","release_date":"7/21/1967","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":55,"title":"Return to Life","rating":4.0,"description":"Complete traum amp of unsp shldr/up arm, level unsp, sequela","release_date":"4/10/1955","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"TV show"},
+{"id":56,"title":"Killing Fields, The","rating":3.6,"description":"Conjunctival hyperemia","release_date":"2/13/1959","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"movie"},
+{"id":57,"title":"Lilla Jönssonligan på styva linan","rating":2.0,"description":"Burn of 2nd deg mul sites of left ankle and foot, init","release_date":"7/4/1966","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":58,"title":"Rage in Heaven","rating":2.8,"description":"Oth fx shaft of unsp tibia, 7thM","release_date":"8/11/1980","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":59,"title":"'Salem's Lot","rating":3.1,"description":"Encounter for supervision of normal pregnancy, unspecified","release_date":"3/9/1996","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":60,"title":"Triumph of Love, The","rating":2.0,"description":"Exposure to oth smoke, fire and flames, subs encntr","release_date":"7/14/1990","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":61,"title":"Metro Manila","rating":4.5,"description":"Corros third degree of single r finger except thumb, init","release_date":"10/23/1983","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":62,"title":"The Road to Glory","rating":1.6,"description":"Kayser-Fleischer ring","release_date":"11/14/1958","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":63,"title":"Rambo (Rambo 4)","rating":1.5,"description":"Unsp intracapsular fracture of left femur, init for clos fx","release_date":"6/2/1972","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"movie"},
+{"id":64,"title":"Pornorama","rating":2.4,"description":"Injury of medial plantar nerve, right leg, subs encntr","release_date":"4/12/1985","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"movie"},
+{"id":65,"title":"Slam","rating":3.4,"description":"Nondisp fx of 1st metatarsal bone, unsp ft, init for opn fx","release_date":"6/9/1961","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"movie"},
+{"id":66,"title":"Vanquished, The (I vinti)","rating":1.2,"description":"Tox eff of carb monx fr incmpl combst dmst fuel, asslt, subs","release_date":"1/18/2015","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":67,"title":"Anchors Aweigh","rating":2.2,"description":"Varus deformity, not elsewhere classified, unspecified site","release_date":"12/12/1994","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":68,"title":"Zero","rating":2.3,"description":"Oth disp fx of base of first MC bone, unsp hand, init","release_date":"4/20/1991","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":69,"title":"If I Were King","rating":4.7,"description":"Partial traumatic amputation of unsp forearm, level unsp","release_date":"10/25/2004","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":70,"title":"The Key","rating":3.9,"description":"Displ apophyseal fx unsp femr, 7thF","release_date":"9/12/2008","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"TV show"},
+{"id":71,"title":"Fly, The","rating":3.7,"description":"Other miliary tuberculosis","release_date":"5/6/2020","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":72,"title":"Mummy's Curse, The","rating":1.3,"description":"Strain msl/tnd lng extn msl toe at ank/ft lev, r foot, init","release_date":"4/27/2002","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":73,"title":"Battle Hymn","rating":3.3,"description":"Eosinophilic gastritis or gastroenteritis","release_date":"1/29/1978","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":74,"title":"Peas at 5:30 (Erbsen auf halb 6)","rating":4.5,"description":"Unsp fx upper end of r ulna, subs for clos fx w delay heal","release_date":"12/14/2009","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"movie"},
+{"id":75,"title":"Animal Love (Tierische Liebe)","rating":3.6,"description":"Laceration w/o foreign body of thmb w damage to nail, init","release_date":"11/18/1955","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":76,"title":"Jupiter Ascending","rating":3.5,"description":"Explosn and rupture of pressurized tire, pipe or hose, subs","release_date":"7/8/1959","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":77,"title":"Death Sentence","rating":1.7,"description":"Nonalcoholic steatohepatitis (NASH)","release_date":"9/8/1974","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"movie"},
+{"id":78,"title":"Reunion","rating":3.6,"description":"Disp fx of medial phalanx of l little fngr, init for opn fx","release_date":"1/28/1958","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"movie"},
+{"id":79,"title":"Reds","rating":2.1,"description":"Rubella arthritis","release_date":"5/12/1988","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"TV show"},
+{"id":80,"title":"Bourne Legacy, The","rating":2.0,"description":"Toxic effect of zinc and its compounds, undet, sequela","release_date":"6/25/1960","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":81,"title":"Round Up, The (La Rafle)","rating":3.7,"description":"Penetrating wound of orbit w or w/o fb, unsp eye, subs","release_date":"8/10/2004","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":82,"title":"Prairie Love","rating":1.5,"description":"Corrosion of first degree of right thigh, initial encounter","release_date":"1/7/1974","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":83,"title":"RKO Production 601: The Making of 'Kong, the Eighth Wonder of the World'","rating":3.6,"description":"Staphylococcal arthritis, left wrist","release_date":"5/29/1971","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":84,"title":"Skin, Skin (Käpy selän alla)","rating":4.2,"description":"Unsp traum displ spondylolysis of third cervcal vert, sqla","release_date":"10/26/2010","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":85,"title":"Day of the Dead 2: Contagium","rating":5.0,"description":"Bipolar disord, crnt episode mixed, severe, w psych features","release_date":"8/2/1982","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":86,"title":"Mouth to Mouth (Boca a boca)","rating":4.1,"description":"Burns of 80-89% of body surface w 60-69% third degree burns","release_date":"12/2/1971","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":87,"title":"Heavy Metal","rating":3.0,"description":"Unsp bus occupant injured in clsn w unsp mv nontraf, init","release_date":"4/9/1971","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":88,"title":"Bad Medicine","rating":3.2,"description":"Nondisplaced Maisonneuve's fracture of left leg, sequela","release_date":"5/21/2017","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"movie"},
+{"id":89,"title":"1900 (Novecento)","rating":4.1,"description":"Laceration of unspecified Achilles tendon, subs encntr","release_date":"5/20/2005","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":90,"title":"Fine, Totally Fine (Zenzen Daijobu)","rating":4.3,"description":"Sprain of oth parts of unsp shoulder girdle, subs encntr","release_date":"8/16/2009","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"movie"},
+{"id":91,"title":"The Walking Stick","rating":2.9,"description":"Central cord syndrome at C4, subs","release_date":"12/1/1986","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":92,"title":"Tai Chi Hero","rating":4.1,"description":"And unsp drugs aff the autonomic nervous system","release_date":"7/5/1952","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":93,"title":"Sex and Breakfast","rating":2.8,"description":"Thrombotic microangiopathy","release_date":"12/19/1971","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":94,"title":"Handmaid's Tale, The","rating":4.9,"description":"Athscl nonbiol bypass of the extrm w gangrene, left leg","release_date":"10/3/2013","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":95,"title":"Exiles (Exils)","rating":3.1,"description":"Insect bite (nonvenomous) of right ear, initial encounter","release_date":"10/25/1973","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":96,"title":"Two Rabbits (2 Coelhos)","rating":4.7,"description":"Mech compl of esophageal anti-reflux device, sequela","release_date":"12/5/2005","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":97,"title":"Tim and Eric's Billion Dollar Movie","rating":1.2,"description":"Inj extn musc/fasc/tend l little finger at wrs/hnd lv, subs","release_date":"2/7/2011","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"movie"},
+{"id":98,"title":"Eraserhead","rating":1.9,"description":"Cocaine abuse with other cocaine-induced disorder","release_date":"7/4/1968","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":99,"title":"Innocent Lies","rating":4.1,"description":"Rheumatoid vasculitis w rheumatoid arthritis mult site","release_date":"1/31/2002","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":100,"title":"Still Walking (Aruitemo aruitemo)","rating":4.7,"description":"Mech compl of oth bone devices, implants and grafts, sequela","release_date":"5/11/1997","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":101,"title":"Mouse That Roared, The","rating":3.3,"description":"Nondisp fx of medial cuneiform of unspecified foot","release_date":"8/22/1960","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"TV show"},
+{"id":102,"title":"Ace in the Hole (Big Carnival, The)","rating":1.8,"description":"Passenger injured in collision w oth mv in traffic accident","release_date":"10/4/1985","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":103,"title":"Pork Chop Hill","rating":4.5,"description":"Poisn by crbnc-anhydr inhibtr,benzo/oth diuretc, undet, sqla","release_date":"1/13/1971","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":104,"title":"Lagaan: Once Upon a Time in India","rating":3.3,"description":"Disord of visual pathways in inflam disord, left side","release_date":"4/23/1996","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"TV show"},
+{"id":105,"title":"Storm in Summer, A","rating":2.8,"description":"Villonodular synovitis (pigmented), right hip","release_date":"10/24/1986","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"TV show"},
+{"id":106,"title":"Boxing Helena","rating":3.9,"description":"Unsp physl fx lower end unsp fibula, subs for fx w malunion","release_date":"3/30/2014","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":107,"title":"Pale Rider","rating":2.0,"description":"Lacerat unsp blood vessel at shldr/up arm, unsp arm, sequela","release_date":"11/12/2005","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"movie"},
+{"id":108,"title":"Beyond the Fear","rating":1.7,"description":"Central dislocation of unspecified hip, subsequent encounter","release_date":"7/6/1961","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"movie"},
+{"id":109,"title":"Animal Room","rating":2.0,"description":"Fx unsp parts of lumbosacr spin & pelv, 7thK","release_date":"1/14/1972","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":110,"title":"Hannah Free","rating":4.5,"description":"Toxic effect of hydrogen cyanide, accidental, subs","release_date":"3/16/1970","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"movie"},
+{"id":111,"title":"Barnacle Bill","rating":3.8,"description":"Unspecified porphyria","release_date":"5/2/1971","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":112,"title":"Bridegroom","rating":2.8,"description":"Occup of 3-whl mv inj in clsn w statnry object in traf, sqla","release_date":"12/12/2009","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":113,"title":"Pandora's Promise","rating":3.2,"description":"Unsp fx low end l femr, subs for opn fx type I/2 w nonunion","release_date":"4/1/1999","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":114,"title":"Divide, The","rating":1.6,"description":"Body mass index (BMI) 39.0-39.9, adult","release_date":"11/11/2010","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"movie"},
+{"id":115,"title":"Gendarme Gets Married, The (Le gendarme se marie)","rating":4.0,"description":"Toxic effect of mycotoxin food contamnt, undetermined, subs","release_date":"2/8/1981","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":116,"title":"Home Alone 4","rating":2.2,"description":"Crohn's disease of large intestine with rectal bleeding","release_date":"1/12/1969","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"movie"},
+{"id":117,"title":"Little Ashes","rating":4.0,"description":"Melanocytic nevi of unspecified part of face","release_date":"8/3/1962","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":118,"title":"New York Lightboard Record","rating":5.0,"description":"Toxic effect of other inorganic substances","release_date":"4/1/1976","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":119,"title":"Idiot's Delight","rating":1.4,"description":"Displ bimalleol fx r low leg, subs for clos fx w malunion","release_date":"10/25/2009","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"movie"},
+{"id":120,"title":"Permanent Midnight","rating":2.1,"description":"Inj muscle, fascia and tendon of abdomen, subs encntr","release_date":"9/20/1988","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":121,"title":"Fixer, The","rating":4.2,"description":"Toxic effect of unsp alcohol, undetermined, init encntr","release_date":"2/2/1958","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":122,"title":"Scent of a Woman (Profumo di donna)","rating":1.7,"description":"Prsn brd/alit mtrcy injured in nonclsn trnsp accident, init","release_date":"8/17/1956","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":123,"title":"Under the Lighthouse Dancing","rating":2.7,"description":"Organic oligospermia","release_date":"3/11/2007","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":124,"title":"Duma","rating":1.8,"description":"Other contact with nonvenomous snake, initial encounter","release_date":"11/23/1972","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"TV show"},
+{"id":125,"title":"Evening Star, The","rating":2.1,"description":"Nondisp fx of prox phalanx of l great toe, 7thD","release_date":"8/29/1974","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":126,"title":"Week-End at the Waldorf","rating":2.8,"description":"Follicular lymphoma, unspecified","release_date":"11/9/1987","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"movie"},
+{"id":127,"title":"Seven Invisible Men (Septyni nematomi zmones)","rating":4.0,"description":"Blastomycosis","release_date":"3/26/1979","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":128,"title":"I Am Sam","rating":3.7,"description":"Seborrheic dermatitis","release_date":"4/12/2011","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"movie"},
+{"id":129,"title":"Bakery Girl of Monceau, The (La boulangère de Monceau)","rating":3.8,"description":"Unsp traum displ spondylolysis of 7th cervcal vert, 7thG","release_date":"10/2/2018","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":130,"title":"Livid (Livide)","rating":3.4,"description":"Poisoning by methadone, accidental (unintentional)","release_date":"9/21/1982","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"movie"},
+{"id":131,"title":"Shepherd: Border Patrol, The","rating":1.3,"description":"Nondisp fx of lateral malleolus of r fibula, 7thD","release_date":"10/31/2011","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":132,"title":"Throne of Blood (Kumonosu jô)","rating":3.1,"description":"Rupture of synovium, left finger(s)","release_date":"3/3/1955","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":133,"title":"Hercules and the Lost Kingdom","rating":2.7,"description":"Poisoning by alpha-adrenoreceptor antagonists, undetermined","release_date":"11/11/1952","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":134,"title":"About Elly (Darbareye Elly)","rating":1.1,"description":"Nondisp suprcndl fx w intrcndl extn low end l femr, 7thQ","release_date":"9/9/1989","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":135,"title":"Whirlpool","rating":2.6,"description":"Lgl intervnt w inj by explosv shl, law enforc offl inj, sqla","release_date":"11/7/2014","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":136,"title":"Guide for the Married Man, A","rating":4.8,"description":"Cannabis use, unsp w intoxication w perceptual disturbance","release_date":"11/1/1957","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":137,"title":"Girl Walk: All Day","rating":3.7,"description":"Oth fx shaft of rad, r arm, 7thH","release_date":"12/31/2006","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":138,"title":"Wild Party, The","rating":2.0,"description":"Rubber band causing external constriction, subs encntr","release_date":"5/7/1973","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":139,"title":"Shrek 2","rating":4.2,"description":"Machinery accident on board passenger ship, init encntr","release_date":"3/17/1959","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"TV show"},
+{"id":140,"title":"Lisbon Story","rating":4.0,"description":"Traumatic rupture of volar plate of l idx fngr at MCP/IP jt","release_date":"9/28/1974","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":141,"title":"Program, The","rating":4.1,"description":"Solitary plasmacytoma in relapse","release_date":"6/13/1975","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":142,"title":"Uninvited, The","rating":2.3,"description":"Vomiting, unspecified","release_date":"8/25/2007","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":143,"title":"Ménilmontant","rating":4.5,"description":"Disp fx of medial condyle of r humer, subs for fx w nonunion","release_date":"11/26/1994","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":144,"title":"Norm MacDonald: Me Doing Standup","rating":2.4,"description":"Primary blast injury of left ear, subsequent encounter","release_date":"7/3/2002","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"movie"},
+{"id":145,"title":"Asphalt Jungle, The","rating":2.9,"description":"Diffuse cholesteatosis, bilateral","release_date":"12/30/1958","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"TV show"},
+{"id":146,"title":"Crime Wave","rating":4.8,"description":"Athscl nonbiol bypass of the extrm w rest pain, right leg","release_date":"4/6/1990","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"movie"},
+{"id":147,"title":"Heads","rating":1.4,"description":"Corrosion of third degree of left hand, unsp site, init","release_date":"10/18/1959","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"movie"},
+{"id":148,"title":"Starbuck","rating":3.4,"description":"Occ of anml-drn veh inj in clsn w animal being ridden, subs","release_date":"11/16/2009","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"movie"},
+{"id":149,"title":"Battle of the Warriors","rating":1.7,"description":"Poisn by antimalari/drugs act on bld protzoa, slf-hrm, init","release_date":"8/27/1973","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":150,"title":"Last Flight of Noah's Ark, The","rating":3.7,"description":"Superficial frostbite of unspecified hip and thigh, sequela","release_date":"4/26/1973","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":151,"title":"The Referee","rating":1.7,"description":"Osteopathy in diseases classified elsewhere, right hand","release_date":"12/25/1987","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":152,"title":"Kalifornia","rating":2.3,"description":"Prem separtn of placenta w dissem intravasc coag, first tri","release_date":"10/8/1958","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":153,"title":"Casper Meets Wendy","rating":2.3,"description":"Disp fx of med epicondyl of l humer, 7thG","release_date":"11/18/1964","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"movie"},
+{"id":154,"title":"Small Circle of Friends, A","rating":4.9,"description":"Other air transport accident involving military aircraft","release_date":"8/20/1968","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"movie"},
+{"id":155,"title":"Lady Takes a Chance, A","rating":2.7,"description":"Merkel cell carcinoma of skin of breast","release_date":"9/24/1980","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"TV show"},
+{"id":156,"title":"Pilgrim, The","rating":3.5,"description":"Dislocation of lens","release_date":"5/31/2013","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"movie"},
+{"id":157,"title":"Two Girls and a Guy","rating":5.0,"description":"Laceration with foreign body of unsp part of head, sequela","release_date":"7/18/1972","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":158,"title":"Space Amoeba (Yog: Monster from Space)","rating":3.1,"description":"Burn unsp degree of unsp mult fngr, not inc thumb, init","release_date":"5/6/2016","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":159,"title":"Brooklyn Bridge","rating":2.0,"description":"Lacerat blood vessels at lower leg level, right leg, subs","release_date":"2/1/1967","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"TV show"},
+{"id":160,"title":"3 Days to Kill","rating":4.7,"description":"Drown due to fall off (nonpowered) inflatable craft","release_date":"6/12/1990","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":161,"title":"Catacombs","rating":4.0,"description":"Pnctr w/o fb of right thumb w/o damage to nail, init","release_date":"5/8/1966","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":162,"title":"Dr. Crippen","rating":2.7,"description":"Strain flexor musc/fasc/tend unsp finger at wrs/hnd lv, init","release_date":"3/5/1990","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":163,"title":"Agatha Christie's 'Ten Little Indians' (Ten Little Indians) (And Then There Were None)","rating":3.4,"description":"Contact w powered garden and outdoor hand tools and mach","release_date":"1/13/1961","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":164,"title":"Forgotten One, The","rating":4.0,"description":"Mech compl of internal prosth dev/grft","release_date":"5/28/1986","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":165,"title":"Parent Trap, The","rating":2.5,"description":"Minor laceration of left vertebral artery, subs encntr","release_date":"9/24/1952","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"movie"},
+{"id":166,"title":"I Shot a Man in Vegas","rating":3.0,"description":"Anterior cord syndrome at C6 level of cervical spinal cord","release_date":"12/23/2015","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"movie"},
+{"id":167,"title":"Of Unknown Origin","rating":4.4,"description":"Osteitis deformans of right hand","release_date":"6/22/2011","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"movie"},
+{"id":168,"title":"Thanks for Sharing","rating":4.7,"description":"Inj extensor musc/fasc/tend left ring finger at wrs/hnd lv","release_date":"10/21/1967","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":169,"title":"Santa Clause, The","rating":1.9,"description":"Contact with blunt object, undetermined intent, subs encntr","release_date":"12/14/1977","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"TV show"},
+{"id":170,"title":"Sex and Breakfast","rating":4.1,"description":"Oth nondisp fx of upr end r humer, subs for fx w delay heal","release_date":"11/25/1973","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":171,"title":"Arrow, The","rating":1.2,"description":"Comp of attempted introduction of embryo in embryo transfer","release_date":"7/23/1958","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":172,"title":"Basara: Princess Goh","rating":1.1,"description":"Other salmonella infections","release_date":"1/31/1996","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"TV show"},
+{"id":173,"title":"Shenandoah","rating":1.3,"description":"Balanced autosomal rearrangement in abnormal individual","release_date":"1/10/1987","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":174,"title":"Dark Victory","rating":4.1,"description":"Central serous chorioretinopathy, right eye","release_date":"1/23/1965","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":175,"title":"Barefoot Contessa, The","rating":3.5,"description":"Disp fx of proximal phalanx of left great toe, init","release_date":"2/8/1995","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"movie"},
+{"id":176,"title":"Behind Enemy Lines","rating":3.5,"description":"Toxic effect of contact w sea anemone, assault, subs encntr","release_date":"3/23/1983","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":177,"title":"2012: Supernova","rating":4.1,"description":"Underdosing of unspecified psychostimulants, init encntr","release_date":"4/30/1965","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":178,"title":"White Palace","rating":2.8,"description":"Oth fracture of right great toe, subs for fx w nonunion","release_date":"4/21/2011","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"movie"},
+{"id":179,"title":"Pete Seeger: The Power of Song","rating":1.6,"description":"Pneumonitis due to inhalation of other solids and liquids","release_date":"5/8/1961","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":180,"title":"Diary of Anne Frank, The","rating":2.6,"description":"Glaucoma suspect","release_date":"9/11/1988","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":181,"title":"Knockin' on Heaven's Door","rating":1.1,"description":"Complex febrile convulsions","release_date":"9/18/1955","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":182,"title":"Voodoo Dawn","rating":4.7,"description":"Oth fracture of left ilium, subs for fx w delay heal","release_date":"6/7/2012","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":183,"title":"Rogue","rating":2.5,"description":"Calcium deposit in bursa","release_date":"9/26/1995","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":184,"title":"Little Foxes, The","rating":4.6,"description":"Displ spiral fx shaft of r femr, init for opn fx type 3A/B/C","release_date":"11/19/2015","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":185,"title":"High Noon","rating":2.5,"description":"Subluxation of L4/L5 lumbar vertebra","release_date":"7/8/1953","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":186,"title":"Anna and the King of Siam","rating":1.4,"description":"Oth complications of the puerperium, NEC","release_date":"1/17/1979","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"movie"},
+{"id":187,"title":"Eaux d'artifice","rating":2.4,"description":"Preterm labor second tri w preterm del third tri, fetus 3","release_date":"4/16/1959","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"movie"},
+{"id":188,"title":"Ordet (Word, The)","rating":2.7,"description":"Displ suprcndl fx w/o intrcndl extn low end r femr, 7thC","release_date":"2/20/1965","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"TV show"},
+{"id":189,"title":"Gospel of John, The","rating":3.7,"description":"Explosion and rupture of other gas cylinder","release_date":"11/12/1959","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":190,"title":"Angels Over Broadway","rating":3.7,"description":"Sepsis due to Staphylococcus aureus","release_date":"8/9/1995","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"TV show"},
+{"id":191,"title":"Inglourious Basterds","rating":4.6,"description":"Chorioamnionitis, first trimester, fetus 3","release_date":"1/7/1991","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":192,"title":"Among Us (Onder Ons)","rating":2.8,"description":"Nondisp associated transv/post fx left acetabulum, sequela","release_date":"1/9/1959","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":193,"title":"Changeling","rating":3.6,"description":"Extrn constrict of unsp extrn genital organs, female, subs","release_date":"2/18/2001","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":194,"title":"Behind Enemy Lines: Colombia (Behind Enemy Lines 3: Ghost Watch)","rating":4.9,"description":"Corrosion of unspecified degree of right wrist, init encntr","release_date":"9/1/1995","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":195,"title":"Racing Dreams","rating":4.3,"description":"Nondisp fx of glenoid cav of scapula, unsp shldr, 7thG","release_date":"10/31/1954","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/dddddd/000000","type":"TV show"},
+{"id":196,"title":"Disorganized Crime","rating":1.5,"description":"Drug/chem diab with prolif diab rtnop without mclr edema, bi","release_date":"1/12/1999","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"movie"},
+{"id":197,"title":"Tender Mercies","rating":1.6,"description":"Ulcerative colitis, unspecified with rectal bleeding","release_date":"1/14/2021","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/ff4444/ffffff","type":"TV show"},
+{"id":198,"title":"All the President's Men","rating":3.7,"description":"Fracture of unspecified phalanx of other finger","release_date":"12/14/1958","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"},
+{"id":199,"title":"Judas Kiss","rating":4.2,"description":"Occup of pk-up/van inj in clsn w statnry obj in traf, sqla","release_date":"11/9/1992","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/cc0000/ffffff","type":"movie"},
+{"id":200,"title":"Devil in a Blue Dress","rating":3.4,"description":"Corrosion of second degree of unspecified upper arm, sequela","release_date":"5/26/2000","cast":[
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "William Daniels"
+    ],"cover_img":"http://dummyimage.com/350x250.png/5fa2dd/ffffff","type":"TV show"}
+	]
+}
